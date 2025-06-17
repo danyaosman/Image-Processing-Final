@@ -17,7 +17,9 @@ You may install them by running this command in your terminal:
 pip install numpy opencv-python matplotlib
 ```
 Or using conda
+```bash
 conda install numpy opencv matplotlib
+```
 
 ## How to use
 Open imgprocfinal.ipynb in a jupyter notebook environment and run the cells by pressing shift + enter to see the outputs
